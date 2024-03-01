@@ -2,17 +2,37 @@ grammar SimpleScript;
 
 //test warunkowy
 
-yes: warunek spełniony
-no: warunek_nie spełniony
+keyword:
 
-script_start: char = 's'
+         |'script_start'
+         |'script_end'
+         |'if'
+         |'while'
+         |'open'
+         |'file'
+         |'create'
+         | 'add'
+         | 'server'
+         | 'color'
+         | 'lib'
+         | 'rev'
+         | 'flay'
+         | 'inp'|| 'input'|| '>>'
+         | 'Str'
+         | 'put'
+         | 'build'
 
-script_end char = 'e'
 
-add_package = add_lang
 
-New_Script_Lang add_lang CSS HTML PHP JavaScript
-data_types  {
-str
-number
+{
+
+warunek spełniony
+no warunek_nie spełniony
+
 }
+
+{
+    // wyświtel warunek spełi
+
+
+};
