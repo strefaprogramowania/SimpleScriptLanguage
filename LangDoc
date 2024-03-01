@@ -1,8 +1,8 @@
 KeyWords meaning
 keyword:
 
-         |'script_start'
-         |'script_end'
+         |'script_start' //use this keyword for starting script
+         |'script_end'  // use this keyword for ending script
          |'if'
          |'while'
          |'open'
