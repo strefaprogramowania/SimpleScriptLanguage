@@ -1,1 +1,20 @@
+KeyWords meaning
+keyword:
 
+         |'script_start'
+         |'script_end'
+         |'if'
+         |'while'
+         |'open'
+         |'file'
+         |'create'
+         | 'add'
+         | 'server'
+         | 'color'
+         | 'lib'
+         | 'rev'
+         | 'flay'
+         | 'inp'|| 'input'|| '>>'
+         | 'Str'
+         | 'put'
+         | 'build'
