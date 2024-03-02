@@ -28,7 +28,12 @@ keyword:
          | 'new'
          | 'prompt'
     
-
+data_types: 
+         |str
+         |num
+         |mixed
+         |logic
+   
 
 
 {
