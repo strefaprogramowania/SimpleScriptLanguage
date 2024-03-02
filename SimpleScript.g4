@@ -27,6 +27,9 @@ keyword:
          | 'adLang'
          | 'new'
          | 'prompt'
+         | 'err'
+         | 'ignore'
+         | 'schear'
     
 data_types: 
          |str
