@@ -36,6 +36,13 @@ data_types:
          |num
          |mixed
          |logic
+arytmetic_operators:
+         '+'
+         '-'
+         '*'
+         '/'
+         '%'
+         '*2'
    
 
 
