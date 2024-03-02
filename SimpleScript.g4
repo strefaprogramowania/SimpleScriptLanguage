@@ -21,6 +21,13 @@ keyword:
          | 'Str'
          | 'put'
          | 'build'
+         | 'open'
+         | 'list'
+         | 'fn' 
+         | 'adLang'
+         | 'new'
+         | 'prompt'
+    
 
 
 
