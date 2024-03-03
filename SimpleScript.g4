@@ -37,12 +37,18 @@ data_types:
          |mixed
          |logic
 arytmetic_operators:
-         '+'
-         '-'
-         '*'
-         '/'
-         '%'
-         '*2'
+        | '+'
+        |'-'
+        | '*'
+        |'/'
+        | '%'
+        | '*2'
+onther_operators:
+        |and
+        |or
+        |incrementation
+        |decrementation
+        
    
 
 
