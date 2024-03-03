@@ -48,7 +48,9 @@ onther_operators:
         |or
         |incrementation
         |decrementation
-        
+ streams_imp:
+        |put"||'cin'|| '>>'||'sin'||"imp"||imput||
+
    
 
 
