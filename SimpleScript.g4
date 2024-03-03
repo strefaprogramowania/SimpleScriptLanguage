@@ -30,19 +30,19 @@ keyword:
          | 'err'
          | 'ignore'
          | 'schear'
-    
+         | 'adLang'
 data_types: 
          |str
          |num
          |mixed
          |logic
 arytmetic_operators:
-        | '+'
-        |'-'
-        | '*'
-        |'/'
-        | '%'
-        | '*2'
+         | '+'
+         |'-'
+         | '*'
+         |'/'
+         | '%'
+         | '*2'
 onther_operators:
         |and
         |or
