@@ -50,6 +50,7 @@ onther_operators:
         |decrementation
  streams_imp:
         |put"||'cin'|| '>>'||'sin'||"imp"||imput||
+ streams_out: sout|| << || print() || show()
 
 var:                                                       
          
