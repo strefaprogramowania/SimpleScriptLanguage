@@ -54,14 +54,18 @@ onther_operators:
 }   
 
 
-{
-
-warunek spełniony
-no warunek_nie spełniony
-
+if var == yes{
+         // warunwk spełniony
+} else var == no {
+// warunek nie spełnony
 }
 
-{
+if script_loop == yes { 
+         // wykonuj blok kodu
+} esleif check script_loop != yeas
+         break
+
+if{
     // wyświtel warunek spełi
 
 
