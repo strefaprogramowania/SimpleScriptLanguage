@@ -32,10 +32,10 @@ keyword:
          | 'schear'
          | 'adLang'
 data_types: 
-         |str
-         |num
-         |mixed
-         |logic
+         |'str'
+         |'num'
+         |'mixed'
+         |'logic'
 arytmetic_operators:
          | '+'
          |'-'
@@ -51,16 +51,22 @@ onther_operators:
  streams_imp:
         |put"||'cin'|| '>>'||'sin'||"imp"||imput||
 
-}   
+var:                                                       
+         
 
 
-if var == yes{
+
+
+ 
+
+
+if( wyrażenie == yes){
          // warunwk spełniony
 } else var == no {
 // warunek nie spełnony
 }
 
-if script_loop == yes { 
+ script_loop == yes { 
          // wykonuj blok kodu
 } esleif check script_loop != yeas
          break
