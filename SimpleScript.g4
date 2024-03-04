@@ -58,10 +58,12 @@ var:
 fn >> fn name()
 
 
-if( wyrażenie == yes){
-         // warunwk spełniony
-} else var == no {
-// warunek nie spełnony
+?? () == yes{
+         // TEN BLOK KODU 
+}
+} ??() != no {
+         // WYMKNAJ TEN BLOK KODU
+
 }
 
  script_loop == yes { 
