@@ -54,10 +54,7 @@ onther_operators:
 var:                                                       
          
 
-
-
-
- 
+fn >> fn name()
 
 
 if( wyrażenie == yes){
