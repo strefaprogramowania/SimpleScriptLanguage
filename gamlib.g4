@@ -8,4 +8,10 @@ keyword:
   |talk
   |open
   |push
+  |sound
+  |visual
+  |jump
+  |kick
+  |take
+  |hiden
   
