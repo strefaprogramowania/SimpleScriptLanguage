@@ -1,7 +1,7 @@
 grammar SimpleScript;
 
 //test warunkowy
-
+tokens {
 keyword:
 
          |'script_start'
@@ -51,7 +51,7 @@ onther_operators:
  streams_imp:
         |put"||'cin'|| '>>'||'sin'||"imp"||imput||
 
-   
+}   
 
 
 {
