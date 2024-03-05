@@ -50,9 +50,9 @@ keyword:
           |protocol
           |DOS 
           |BIOS
-          |alert
-          |auto_clean
-          |pass
+          |alert // this key is for showing alerts
+          |auto_clean // use this wor if buiding program for viruses automatic cleaning
+          |pass// this workey use for check pssword security
           |reverse
           |loop
           |virtual
