@@ -1,6 +1,7 @@
 
+MYNIG KEYWORDS
 // PRYMARY KEYWORD
-KeyWords meaning
+
 keyword:
 
          |'script_start' //use this keyword for starting script
@@ -20,3 +21,4 @@ keyword:
          | 'Str'
          | 'put'
          | 'build'
+CyberSecTestLib KEYWORD MINING
