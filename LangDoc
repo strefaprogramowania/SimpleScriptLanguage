@@ -31,16 +31,16 @@ keyword:
           |malvere
           |sec
           |reverse
-          |lock
+          |lock      //    this keyword use when you need find whole in operating systems and not only
           |automatic
-          |create
+          |create  // this keyword use when you create something
           |hack
-          |clean
+          |clean  // use  when you nead clean malvare, data and every thing you nedd :) 
           |unlocked
-          |cryp
+          |cryp // use for data crypting
           |hiden
-          |uncrypt
-          |broke
+          |uncrypt // use for data uncrypting
+          |broke // use for 
           |IP
           |conect
           |cam 
