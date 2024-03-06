@@ -4,15 +4,15 @@
 <menu>
 
 basic_colr:{
-   'red'
-   'blue'
-   'black'
-   'white'
-   'yelloe'
-   'gray'
-   'orange'
-   'grean'
-   'ping'
+   'red'  :
+   'blue' :
+   'black':
+   'white':
+   'yelloe':
+   'gray':
+   'orange':
+   'grean':
+   'ping':
 }
       
   
