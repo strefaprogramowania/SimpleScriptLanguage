@@ -3,6 +3,9 @@
 <add> <add>
 <menu> </menu>
 <load src> 
+<audio> </audio>
+<vid> </vid>
+
 
 basic_colr:{
     "red"  : "czerwony"
