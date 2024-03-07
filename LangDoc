@@ -17,7 +17,7 @@ keyword:
          | 'lib'
          | 'rev'
          | 'flay'
-         | 'inp'|| 'input'|| '>>'
+         | 'inp'|| 'input'|| '>>'// input keywordst
          | 'Str'
          | 'put'
          | 'build'
