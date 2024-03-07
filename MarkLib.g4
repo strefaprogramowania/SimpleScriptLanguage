@@ -5,6 +5,8 @@
 <load src> 
 <audio> </audio>
 <vid> </vid>
+<copyright></copyright>
+<contact_form> <contact_form>
 
 
 basic_colr:{
