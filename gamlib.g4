@@ -14,4 +14,6 @@ keyword:
   |kick
   |take
   |hiden
-  
+  |click
+  |move
+  |
