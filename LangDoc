@@ -42,7 +42,7 @@ keyword:
           |uncrypt // use for data uncrypting
           |broke // use for 
           |IP
-          |conect
+          |conect // use this comand when you wont check conection security
           |cam 
           |cache
           |Net
