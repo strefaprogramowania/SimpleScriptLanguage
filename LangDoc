@@ -9,9 +9,9 @@ keyword:
          |'if'
          |'while'
          |'open'
-         |'file'
-         |'create'
-         | 'add'
+         |'file'/ use this instruction if you wont do operation on file
+         |'create' // use this instruction if you need create something
+         | 'add' //this istruction use if you need add something
          | 'server'
          | 'color'
          | 'lib'
