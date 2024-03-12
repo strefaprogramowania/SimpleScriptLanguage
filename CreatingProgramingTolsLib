@@ -1,7 +1,7 @@
 |'new'
 |'create'
 |tools
-|compiler
-|linker
-|test
-|console
+|'compiler'
+|'linke'r
+|'test'
+|'console'
