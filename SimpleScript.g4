@@ -62,7 +62,7 @@ fn >> fn name()
          // TEN BLOK KODU 
 }
 } ??() != no {
-         // WYMKNAJ TEN BLOK KODU
+         // WYMKNAJ TEN BLOK KODU////////////////////////////////////////
 
 }
 
