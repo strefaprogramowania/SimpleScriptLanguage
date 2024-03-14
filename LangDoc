@@ -26,11 +26,11 @@ keyword:
           |check
           |shear
           |find
-          |Kernel
+          |Kernel // this keyword use when you need 
           |backdors
           |malvere
           |sec
-          |reverse
+          |reverse //
           |lock      //    this keyword use when you need find whole in operating systems and not only
           |automatic
           |create  // this keyword use when you create something
