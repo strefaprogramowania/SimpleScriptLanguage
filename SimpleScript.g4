@@ -6,9 +6,10 @@ keyword:
 
          script_start : 'start'||'s'|| 'start_script'
          script_end   : 'end'|| 'e'||'end_script'
-         if : 'if'| '?'| 
+         if : 'if'|| '?' 
          while: 'while' 
          open: 'open'  
+         function : 'fn'|| 'fun'
          'files_operation' 
          |'create'
          | 'add'
