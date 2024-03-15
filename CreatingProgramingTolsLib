@@ -1,10 +1,10 @@
 
 new_tol : 'create'
-|tools
-|'compiler'
-|'linke'r
-|'test'
-|'console'
+tools
+'compiler'
+'linke'r
+'test'
+'console'
 
 // create tol construct
 
