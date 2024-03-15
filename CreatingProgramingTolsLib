@@ -1,7 +1,14 @@
-|'new'
-|'create'
+
+new_tol : 'create'
 |tools
 |'compiler'
 |'linke'r
 |'test'
 |'console'
+
+// create tol construct
+
+new_tol create{
+
+
+}
