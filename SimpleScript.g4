@@ -5,10 +5,10 @@ tokens {
 keyword:
 
          script_start : 'start'||'s'|| 'start_script'
-         'script_end'   : 'end'|| 'e'||'end_script'
-         |'if'
-         |'while'
-         |'open'
+         script_end   : 'end'|| 'e'||'end_script'
+         if : 'if'| '?'| 
+         while: 'while' 
+         open: 'open'  
          'files_operation' 
          |'create'
          | 'add'
