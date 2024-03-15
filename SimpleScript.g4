@@ -12,7 +12,6 @@ keyword:
          function : 'fn'|| 'fun'
          'create'
          'add' : 'add'|| '+'
-         | 'color'
          | 'lib'
          | 'rev'
          | 'flay'
@@ -75,3 +74,6 @@ if{
 
 
 };
+// if construction
+
+
