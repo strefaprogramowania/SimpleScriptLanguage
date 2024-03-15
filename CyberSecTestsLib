@@ -1,9 +1,9 @@
 keyword:
-  |'check'
-  |'shear'
-  |'find'
-  |'Kernel'
-  |'backdors'
+  check : 'check' 
+  shear:  'shear'
+  find 
+  Kernel : 
+  backdors
   |'malvere'
   |'sec'
   |'reverse'
