@@ -25,7 +25,7 @@ keyword:
          | 'adLang'
          | 'new'
          | 'prompt'
-         | 'err'
+         errors: 'err'|| 'waring'|| 'error'
          | 'ignore'
          | 'schear'
          | 'adLang'
