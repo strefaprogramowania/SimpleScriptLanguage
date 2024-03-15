@@ -4,12 +4,12 @@ grammar SimpleScript;
 tokens {
 keyword:
 
-         |'script_start'
-         |'script_end'
+         script_start : 'start'||'s'|| 'start_script'
+         'script_end'   : 'end'|| 'e'||'end_script'
          |'if'
          |'while'
          |'open'
-         |'file'
+         'files_operation' 
          |'create'
          | 'add'
          | 'server'
@@ -17,7 +17,7 @@ keyword:
          | 'lib'
          | 'rev'
          | 'flay'
-         | 'inp'|| 'input'|| '>>'
+         stream_input: 'inp'|| 'input'|| '>>'
          | 'Str'
          | 'put'
          | 'build'
