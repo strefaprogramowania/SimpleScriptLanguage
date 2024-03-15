@@ -11,7 +11,7 @@ keyword:
          open: 'open'  
          function : 'fn'|| 'fun'
          'create'
-         'add' : 'add'|| '+'
+         'add' : 'add'||
          | 'lib'
          | 'rev'
          | 'flay'
