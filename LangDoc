@@ -6,19 +6,19 @@ keyword:
 
          |'script_start' //use this keyword for starting script
          |'script_end'  // use this keyword for ending script
-         |'if'
-         |'while'
-         |'open'
+         |'if' 
+         |'while' // while loop
+         |'open'// use this instruction if you wont open something(files/directory)
          |'file'/ use this instruction if you wont do operation on file
          |'create' // use this instruction if you need create something
          | 'add' //this istruction use if you need add something
          | 'server'
          | 'color'
          | 'lib'
-         | 'rev'
-         | 'flay'
-         | 'inp'|| 'input'|| '>>'// input keywordst
-         | 'Str'
+         | 'rev'// use this instrunction when you need reverse something 
+         | 'flay' // use this instruction when you need ??
+         | 'inp'|| 'input'|| '>>'// input keywordst // use this instruction for interaction
+         | 'Str' //
          | 'put'
          | 'build'
 CyberSecTestLib KEYWORD MINING
