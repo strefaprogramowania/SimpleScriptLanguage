@@ -2,7 +2,7 @@
 new_tol : 'create'
 tools
 'compiler'
-'linke'r
+'linke'r/////
 'test'
 'console'   //////
 
