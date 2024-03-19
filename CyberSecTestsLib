@@ -1,7 +1,8 @@
 keyword:
+  test: 'start_test'|| 'test' 
   check : 'check' 
   shear:  'shear'
-  find 
+  find :  'find'
   Kernel : 
   backdors
   |'malvere'
@@ -16,19 +17,19 @@ keyword:
   |'cryp'
   |'hiden'
   |'uncrypt'
-  |'broke'
+  'breaking' :
   |'IP'
   |'conect'
   |'cam' 
   |'cache'
   |'Net'
   |'crack'
-  |'protocol'
+  |'protocol' 
   |'DOS' 
   |'BIOS'
   |'alert'
   |'auto_clean'
-  |'pass'
+  'pass': pass|| password|| 
   |'reverse'
   |'loop'
   |'virtual'
@@ -44,7 +45,6 @@ keyword:
   |'lab'
   |'iniection'
 
-dddddddddddddddddddddddddd
 
 |'test'
  
