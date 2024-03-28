@@ -3,7 +3,7 @@ MYNIG KEYWORDS
 // PRYMARY KEYWORD
 
 keyword:
-
+dddd
          |'script_start' //use this keyword for starting script
          |'script_end'  // use this keyword for ending script
          |'if' 
